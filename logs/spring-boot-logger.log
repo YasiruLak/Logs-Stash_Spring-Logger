@@ -1,0 +1,33 @@
+2023-05-22 12:26:02,792 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication using Java 11.0.16 on YASIRU5204 with PID 2132 (C:\Users\yasiru_l\Downloads\test\test\target\classes started by yasiru_l in C:\Users\yasiru_l\Downloads\test\test)
+2023-05-22 12:26:02,796 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-05-22 12:26:04,815 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-05-22 12:26:04,826 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-22 12:26:04,829 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-05-22 12:26:04,830 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2023-05-22 12:26:04,975 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-05-22 12:26:04,976 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2119 ms
+2023-05-22 12:26:05,698 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-05-22 12:26:05,724 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-22 12:26:05,745 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2023-05-22 12:26:05,762 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 3.635 seconds (JVM running for 6.765)
+2023-05-22 12:26:09,405 INFO org.apache.juli.logging.DirectJDKLog [RMI TCP Connection(3)-10.215.134.1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-22 12:26:09,407 INFO org.springframework.web.servlet.FrameworkServlet [RMI TCP Connection(3)-10.215.134.1] Initializing Servlet 'dispatcherServlet'
+2023-05-22 12:26:09,409 INFO org.springframework.web.servlet.FrameworkServlet [RMI TCP Connection(3)-10.215.134.1] Completed initialization in 2 ms
+2023-05-22 12:32:13,042 INFO org.springframework.boot.StartupInfoLogger [main] Starting TestApplication using Java 11.0.16 on YASIRU5204 with PID 5648 (C:\Users\yasiru_l\Downloads\test\test\target\classes started by yasiru_l in C:\Users\yasiru_l\Downloads\test\test)
+2023-05-22 12:32:13,046 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-05-22 12:32:14,747 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2023-05-22 12:32:14,760 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-22 12:32:14,762 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-05-22 12:32:14,762 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2023-05-22 12:32:14,906 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-05-22 12:32:14,906 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1799 ms
+2023-05-22 12:32:15,766 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-05-22 12:32:15,810 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-22 12:32:15,839 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2023-05-22 12:32:15,861 INFO org.springframework.boot.StartupInfoLogger [main] Started TestApplication in 3.495 seconds (JVM running for 6.455)
+2023-05-22 12:32:17,908 INFO org.apache.juli.logging.DirectJDKLog [RMI TCP Connection(2)-10.215.134.1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-22 12:32:17,911 INFO org.springframework.web.servlet.FrameworkServlet [RMI TCP Connection(2)-10.215.134.1] Initializing Servlet 'dispatcherServlet'
+2023-05-22 12:32:17,914 INFO org.springframework.web.servlet.FrameworkServlet [RMI TCP Connection(2)-10.215.134.1] Completed initialization in 2 ms
+2023-05-22 12:32:46,075 INFO com.epic.test.controller.LoggingController [http-nio-8080-exec-1] An INFO Message
+2023-05-22 12:32:46,078 WARN com.epic.test.controller.LoggingController [http-nio-8080-exec-1] A WARN Message
+2023-05-22 12:32:46,080 ERROR com.epic.test.controller.LoggingController [http-nio-8080-exec-1] An ERROR Message
